@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.neoris.notification.WishlistActivity" >
+
+    <item android:id="@+id/action_menu"
+        android:title="@string/action_menu"
+        android:icon="@drawable/ic_menu"
+        android:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/action_shop"
+        android:title="@string/action_shop"
+        android:icon="@drawable/ic_shop"
+        android:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/action_cart"
+        android:title="@string/action_cart"
+        android:icon="@drawable/ic_cart"
+        android:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/action_scan"
+        android:title="@string/action_scan"
+        android:icon="@drawable/ic_scan"
+        android:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/action_wishlist"
+        android:title="@string/action_wishlist"
+        android:icon="@drawable/ic_wishlist"
+        android:showAsAction="ifRoom|withText" />
+
+</menu>

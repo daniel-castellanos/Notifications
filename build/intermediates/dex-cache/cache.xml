@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-4e6ae764d55cbbecbe2804348e16a09f1088b9ee.jar"
+        jar="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\build\intermediates\pre-dexed\debug\classes-48b2f90b512b1c61dfd0c5f2295ccf4c4796bcc6.jar"
+        jar="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\build\intermediates\pre-dexed\debug\estimote-sdk-preview-701d24187805dbfe2a023a454ca32db9d89316aa.jar"
+        jar="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\libs\estimote-sdk-preview.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d01370ba0c87b94c1da3d909048cd9b69e762eb8"/>
+    <item
+        dex="C:\Users\e-dcastellanos\AndroidStudioProjects\Notifications\Application\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-dc0faed27dc4d520a3954e6ebf9384702b1bc971.jar"
+        jar="C:\Users\e-dcastellanos\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+
+</pre-dex-items>
